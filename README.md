@@ -15,7 +15,7 @@ API do meu E-commerce CLAUDIO!STORE
   
   -GET = Um GET para buscar por ID, para manipular individualmente.
   
-  -GET = E um GET que faz uma busca, utilizei algumas técnicas para fazer a busca no banco de dados ignorando a sensibilidade das letras e acentuação.
+  -GET = E um GET que faz uma busca, utilizei algumas técnicas para fazer a busca no banco de dados ignorando se as letras são maiúsculas e minúsculas e acentuação.
   
   -POST = Utilizei o POST para efetuar uma compra, e de acordo com a quantidade selecionada pelo comprador ele fazer a subtração no banco de dados.
 
