@@ -4,7 +4,7 @@ API do meu E-commerce CLAUDIO!STORE
 
 ## VISÃO GERAL
 
-  Criei a pasta Repository para lidar com a lógica envolvendo o Banco de Dados com o Entity Framework. 
+  Criei a pasta Repository para lidar com a lógica envolvendo o Banco de Dados com o Entity Framework. <br>
   Aproveitei a Injeção de Dependência ( DI ) 
   Utilizei o banco de dados SQL Server
   E tive que lidar com o CORS para permitir que o Front pudesse utilizar minha API
